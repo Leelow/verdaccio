@@ -16,3 +16,6 @@ jsconfig.json
 
 # IntelliJ
 /.idea
+
+# My config file
+/conf/myconfig.yaml
